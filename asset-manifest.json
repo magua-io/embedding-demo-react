@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/embedding-demo-react/static/css/main.307a9e27.css",
-    "main.js": "/embedding-demo-react/static/js/main.fa76adae.js",
+    "main.css": "/embedding-demo-react/static/css/main.55b528d4.css",
+    "main.js": "/embedding-demo-react/static/js/main.50a1314b.js",
     "static/js/977.f2e31c69.chunk.js": "/embedding-demo-react/static/js/977.f2e31c69.chunk.js",
     "static/js/658.adb55edc.chunk.js": "/embedding-demo-react/static/js/658.adb55edc.chunk.js",
     "static/js/392.4dd5b9ba.chunk.js": "/embedding-demo-react/static/js/392.4dd5b9ba.chunk.js",
@@ -43,8 +43,8 @@
     "static/media/Linearicons-Free.woff2?w118d": "/embedding-demo-react/static/media/Linearicons-Free.857c65d6452680b4f3b1.woff2",
     "static/media/abstract7.jpg": "/embedding-demo-react/static/media/abstract7.b0a46595a7b8711385f1.jpg",
     "index.html": "/embedding-demo-react/index.html",
-    "main.307a9e27.css.map": "/embedding-demo-react/static/css/main.307a9e27.css.map",
-    "main.fa76adae.js.map": "/embedding-demo-react/static/js/main.fa76adae.js.map",
+    "main.55b528d4.css.map": "/embedding-demo-react/static/css/main.55b528d4.css.map",
+    "main.50a1314b.js.map": "/embedding-demo-react/static/js/main.50a1314b.js.map",
     "977.f2e31c69.chunk.js.map": "/embedding-demo-react/static/js/977.f2e31c69.chunk.js.map",
     "658.adb55edc.chunk.js.map": "/embedding-demo-react/static/js/658.adb55edc.chunk.js.map",
     "392.4dd5b9ba.chunk.js.map": "/embedding-demo-react/static/js/392.4dd5b9ba.chunk.js.map",
@@ -59,7 +59,7 @@
     "40.35864552.chunk.js.map": "/embedding-demo-react/static/js/40.35864552.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.307a9e27.css",
-    "static/js/main.fa76adae.js"
+    "static/css/main.55b528d4.css",
+    "static/js/main.50a1314b.js"
   ]
 }
