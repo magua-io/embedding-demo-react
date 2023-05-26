@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/embedding-demo-react/static/css/main.cf9e783e.css",
-    "main.js": "/embedding-demo-react/static/js/main.01aeeb11.js",
+    "main.js": "/embedding-demo-react/static/js/main.3ec771ae.js",
     "static/js/977.f2e31c69.chunk.js": "/embedding-demo-react/static/js/977.f2e31c69.chunk.js",
     "static/js/658.adb55edc.chunk.js": "/embedding-demo-react/static/js/658.adb55edc.chunk.js",
     "static/js/392.4dd5b9ba.chunk.js": "/embedding-demo-react/static/js/392.4dd5b9ba.chunk.js",
@@ -42,7 +42,7 @@
     "static/media/abstract7.jpg": "/embedding-demo-react/static/media/abstract7.b0a46595a7b8711385f1.jpg",
     "index.html": "/embedding-demo-react/index.html",
     "main.cf9e783e.css.map": "/embedding-demo-react/static/css/main.cf9e783e.css.map",
-    "main.01aeeb11.js.map": "/embedding-demo-react/static/js/main.01aeeb11.js.map",
+    "main.3ec771ae.js.map": "/embedding-demo-react/static/js/main.3ec771ae.js.map",
     "977.f2e31c69.chunk.js.map": "/embedding-demo-react/static/js/977.f2e31c69.chunk.js.map",
     "658.adb55edc.chunk.js.map": "/embedding-demo-react/static/js/658.adb55edc.chunk.js.map",
     "392.4dd5b9ba.chunk.js.map": "/embedding-demo-react/static/js/392.4dd5b9ba.chunk.js.map",
@@ -58,6 +58,6 @@
   },
   "entrypoints": [
     "static/css/main.cf9e783e.css",
-    "static/js/main.01aeeb11.js"
+    "static/js/main.3ec771ae.js"
   ]
 }
